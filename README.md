@@ -1,6 +1,8 @@
 # student-exam-score-prediction
 Predict continuous exam scores based on student habits, demographics, and academic engagement.
+
 **Dataset:** The classic Kaggle Titanic dataset.
+
 **Key Skills:** Data Cleaning, Text Extraction, Classification, Ensemble Modeling.
 
 ## 🛠️ Feature Engineering & Preprocessing
